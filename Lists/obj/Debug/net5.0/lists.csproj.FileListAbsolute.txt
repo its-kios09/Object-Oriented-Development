@@ -1,0 +1,16 @@
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/lists
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/lists.deps.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/lists.runtimeconfig.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/lists.runtimeconfig.dev.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/lists.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/ref/lists.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/bin/Debug/net5.0/lists.pdb
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.csproj.AssemblyReference.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.AssemblyInfoInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.AssemblyInfo.cs
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.csproj.CoreCompileInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/ref/lists.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.pdb
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Lists/obj/Debug/net5.0/lists.genruntimeconfig.cache

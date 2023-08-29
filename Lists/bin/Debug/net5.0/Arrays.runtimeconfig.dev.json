@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/starlabs/.dotnet/store/|arch|/|tfm|",
+      "/home/starlabs/.nuget/packages"
+    ]
+  }
+}

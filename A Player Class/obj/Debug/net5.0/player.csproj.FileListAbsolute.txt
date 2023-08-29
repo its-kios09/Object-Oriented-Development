@@ -1,0 +1,5 @@
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/A Player Class/obj/Debug/net5.0/player.csproj.AssemblyReference.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/A Player Class/obj/Debug/net5.0/player.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/A Player Class/obj/Debug/net5.0/player.AssemblyInfoInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/A Player Class/obj/Debug/net5.0/player.AssemblyInfo.cs
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/A Player Class/obj/Debug/net5.0/player.csproj.CoreCompileInputs.cache
