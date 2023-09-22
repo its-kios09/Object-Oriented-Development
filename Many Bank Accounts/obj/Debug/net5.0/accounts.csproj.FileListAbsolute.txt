@@ -1,0 +1,5 @@
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/accounts.csproj.AssemblyReference.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/accounts.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/accounts.AssemblyInfoInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/accounts.AssemblyInfo.cs
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/accounts.csproj.CoreCompileInputs.cache

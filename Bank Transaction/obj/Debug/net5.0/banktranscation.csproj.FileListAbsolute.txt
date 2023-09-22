@@ -1,0 +1,16 @@
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/banktranscation
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/banktranscation.deps.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/banktranscation.runtimeconfig.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/banktranscation.runtimeconfig.dev.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/banktranscation.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/ref/banktranscation.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/bin/Debug/net5.0/banktranscation.pdb
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.csproj.AssemblyReference.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.AssemblyInfoInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.AssemblyInfo.cs
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.csproj.CoreCompileInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/ref/banktranscation.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.pdb
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Bank Transaction/obj/Debug/net5.0/banktranscation.genruntimeconfig.cache

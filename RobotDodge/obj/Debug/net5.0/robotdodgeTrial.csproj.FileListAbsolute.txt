@@ -1,0 +1,5 @@
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/RobotDodge/obj/Debug/net5.0/robotdodgeTrial.csproj.AssemblyReference.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/RobotDodge/obj/Debug/net5.0/robotdodgeTrial.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/RobotDodge/obj/Debug/net5.0/robotdodgeTrial.AssemblyInfoInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/RobotDodge/obj/Debug/net5.0/robotdodgeTrial.AssemblyInfo.cs
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/RobotDodge/obj/Debug/net5.0/robotdodgeTrial.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.csproj.AssemblyReference.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.AssemblyInfoInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.AssemblyInfo.cs
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.csproj.CoreCompileInputs.cache
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/Program
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/Program.deps.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/Program.runtimeconfig.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/Program.runtimeconfig.dev.json
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/Program.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/ref/Program.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/bin/Debug/net5.0/Program.pdb
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/ref/Program.dll
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.pdb
+/home/starlabs/Desktop/Projects/Object-Oriented-Development/Many Bank Accounts/obj/Debug/net5.0/Program.genruntimeconfig.cache

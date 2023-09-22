@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SplashKitSDK">
+      <HintPath>/home/starlabs/.splashkit/lib/linux/libSplashKit.so</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
